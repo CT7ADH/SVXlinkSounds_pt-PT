@@ -3,10 +3,10 @@
 -----------------------------------------------------------------------------
 Instruçoes para actualizar:
 1º
-<!--cd /usr/share/svxlink/-->
+cd /usr/share/svxlink/
 
 2º
-<!--sudo git clone https://github.com/CT7ADH/SVXlinkSounds_pt-PT.git-->
+sudo git clone https://github.com/CT7ADH/SVXlinkSounds_pt-PT.git
 
 3º
 
@@ -17,7 +17,7 @@ Instruçoes para actualizar:
 -----------------------------------------------------------------------------
 Instroçoes para criar:
 
-@CT7ADH Instrucoes finais
+<!--@CT7ADH Instrucoes finais-->
 A funcionar em Debian. (Raspberry tem problemas de libs)
 
 Instalar:
