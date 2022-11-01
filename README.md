@@ -2,6 +2,7 @@
  Sons em Português para o SVXlink
 -----------------------------------------------------------------------------
 Instruçoes para actualizar:
+
 1º
 cd /usr/share/svxlink/
 
